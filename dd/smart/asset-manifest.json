@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.308887aa.css",
+    "main.js": "/static/js/main.ff6b4b21.js",
+    "static/js/787.b3ec773c.chunk.js": "/static/js/787.b3ec773c.chunk.js",
+    "static/media/watch-2.png": "/static/media/watch-2.61189240d54547036c5a.png",
+    "static/media/watch-1.png": "/static/media/watch-1.f2760009e24a0280242b.png",
+    "static/media/watch-3.png": "/static/media/watch-3.e03ef91eaa305ba23efb.png",
+    "static/media/watch-4.png": "/static/media/watch-4.e36671386870b4cd1aaf.png",
+    "static/media/watch-7.png": "/static/media/watch-7.78d96f402a69656d754d.png",
+    "static/media/watch-6.png": "/static/media/watch-6.6fdf4f8d016149d09b0e.png",
+    "static/media/watch-5.png": "/static/media/watch-5.7643d599e7ac3dbc6931.png",
+    "static/media/video-bg.jpg": "/static/media/video-bg.6a153d49db26cf1e06ba.jpg",
+    "static/media/about-img.jpg": "/static/media/about-img.83ac3db9ebd52d5b44fe.jpg",
+    "static/media/map.png": "/static/media/map.bff8d689eb131361e7c4.png",
+    "static/media/banner-1.jpg": "/static/media/banner-1.5dc83505020a4390209e.jpg",
+    "static/media/circle.png": "/static/media/circle.e1822a837f7c41e44c7f.png",
+    "index.html": "/index.html",
+    "main.308887aa.css.map": "/static/css/main.308887aa.css.map",
+    "main.ff6b4b21.js.map": "/static/js/main.ff6b4b21.js.map",
+    "787.b3ec773c.chunk.js.map": "/static/js/787.b3ec773c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308887aa.css",
+    "static/js/main.ff6b4b21.js"
+  ]
+}
