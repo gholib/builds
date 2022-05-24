@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.98b4796f.css",
-    "main.js": "/static/js/main.24ca036c.js",
+    "main.css": "/static/css/main.9b91347d.css",
+    "main.js": "/static/js/main.8ed2520f.js",
     "static/media/jovid.pdf": "/static/media/jovid.ac017bf14cb68fa29bd7.pdf",
+    "static/media/pablo.png": "/static/media/pablo.a6197a4fb083d98dc2ba.png",
     "static/media/gholib.jpg": "/static/media/gholib.2cb2e86cc25ecda15daa.jpg",
     "static/media/vs.jpg": "/static/media/vs.aee8256d594e001b83ec.jpg",
-    "static/media/todo.png": "/static/media/todo.5880c98cc280225e9785.png",
-    "static/media/smart.jpg": "/static/media/smart.a74b032e3f553933e028.jpg",
     "static/media/navruz.pdf": "/static/media/navruz.b3e0f8934f84082274e9.pdf",
     "static/media/jovid.jpg": "/static/media/jovid.87c37460b1b0b53c231e.jpg",
     "static/media/gholib.pdf": "/static/media/gholib.b3a8713fb7658b35b714.pdf",
@@ -23,11 +22,11 @@
     "static/media/work-7.png": "/static/media/work-7.9095310198dda3553766.png",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/index.html",
-    "main.98b4796f.css.map": "/static/css/main.98b4796f.css.map",
-    "main.24ca036c.js.map": "/static/js/main.24ca036c.js.map"
+    "main.9b91347d.css.map": "/static/css/main.9b91347d.css.map",
+    "main.8ed2520f.js.map": "/static/js/main.8ed2520f.js.map"
   },
   "entrypoints": [
-    "static/css/main.98b4796f.css",
-    "static/js/main.24ca036c.js"
+    "static/css/main.9b91347d.css",
+    "static/js/main.8ed2520f.js"
   ]
 }
